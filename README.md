@@ -1,4 +1,4 @@
 bMath
 =====
 
-The first round for baby platform game!
+The first round for baby platform game.
